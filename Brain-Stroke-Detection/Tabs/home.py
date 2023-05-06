@@ -10,7 +10,7 @@ def app():
     st.title("Brain Stroke Predictor")
 
     # Add image to the home page
-    st.image("./images/home.jpeg")
+    st.image("Brain-Stroke-Detection/images/home.jpeg")
 
     # Add brief describtion of your web app
     st.markdown(
